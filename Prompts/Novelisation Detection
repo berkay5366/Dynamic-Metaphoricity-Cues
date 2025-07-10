@@ -1,0 +1,20 @@
+I am going to give you 43 metaphors, all of which have trade as their central theme. Your goal is to detect if a metaphor is a novel linguistic metaphor.
+
+We do this by checking whether the metaphorical vehicle is used in such a way that the metaphorical sense (the contextual meaning) is not 
+the primary sense (the core meaning), but rather the basic sense of the metaphorical word is the primary sense.
+
+Only look if the primary sense (the core meaning) matches the contextual meaning of the word in the metaphor. There can only be one 
+primary sense, not more than one. If they do not match, then the metaphor is novel.
+
+For example, 'pie' is novel in 'trade pie' because its metaphorical meaning is not  the primary sense, but ¨a baked dish of fruit 
+or meat and/or vegetables with pastry on the bottom, sides and top¨ is the primary sense.
+
+Please keep in mind that everything is a metaphor. Despite what you might think, they are all figurative, not literal. So please don´t rule out novelisation, 
+even if you think they are not metaphorical.
+
+So, if there is novelisation, I want you to classify the metaphor as such. If you cannot identify any novelisation, then classify it as no novelisation.
+
+Metaphor 1: Is there novelisation in the metaphor 'Mr. President, earlier today the Senate Finance Committee heard testimony on  the issue of  most-favored-nation trade policy for China.'?
+Metaphor 2: Is there novelisation in the metaphor 'This is symptomatic of a wider problem--the disappearance of US moral and strategic leadership under Trump.The causes are legion: take for example his protectionist focus on "America First",  the trade wars  with China and the EU, the undermining of NATO, the renunciation of international arms control agreements, of the Iran nuclear deal, his trashing of the Middle East Peace Process, his vainglorious but failed attempt to denuclearise North Korea, his abandonment of the Paris climate accords, and his unique contribution to the creation of a posttruth world in which the West has largely forfeited the right to call out others for bad behaviour Crises accelerate trends more than they create new ones.'?
+Metaphor 3: Is there novelisation in the metaphor 'Sen. Steve Daines (R-MT): ¡°President Trump is on a winning streak. Trade deals w/ Japan, Mexico&Canada, and China.  @realDonaldTrump is obsessed with growing jobs and securing trade wins , Dems are obsessed with impeachment.'?
+etc.
