@@ -1,0 +1,34 @@
+I am going to give you 51 metaphors, all of which have trade as their central theme. Your goal is to detect 
+if there is an explicit mapping in the metaphor or not.
+
+The question is whether the source domain is mapped explicitly or implicitly. Explicit mapping occurs when 
+the metaphor clearly presents both the source and target domains, thereby making the metaphorical relationship explicit.
+
+¨WTO IS CATASTROPHE¨ is an explicit mapping because the source domain is explicitly named in the sentence in which 
+the metaphor ¨catastrophe¨ directly labels the WTO.
+
+But ¨The trade deal has robbed us¨ is then an implicit mapping. In this case, the conceptual metaphor is 
+that the trade deal is a thief, which is triggered by the word ¨robbed¨. However, the word ¨thief¨ is 
+not explicitly used in the sentence. You need to use reasoning to imply this conceptual metaphor.
+
+There are more POS tags that can activate the source domain, such as verbs and prepositions. However, you 
+never need to perform any additional reasoning for explicit mapping, since the source domain, which is 
+always a noun, is already present in the sentence. If the trade keyword is compared to a noun in that 
+sentence, there is a high chance that an explicit mapping exists.
+
+It is important to know that it doesn't matter how abstract the source domain is. The source domain 
+can be something concrete, such as ¨disaster¨, or something abstract, such as ¨thing¨ or ¨place¨. Either way, 
+it should be an explicit noun in the sentence.
+
+Please keep in mind that everything is a metaphor. Despite what you might think, they are all figurative, 
+not literal. So please don´t rule out explicit mapping, even if you think they are not metaphorical.
+
+So, if there is an explicit magpping, I want you to classify the metaphor as such. If you cannot identify 
+any explicit mapping, then classify it as implicit mapping.
+
+Metaphor 1: Is there an explicit mapping in the metaphor 'It's a tremendous amount of money. It's a tremendous problem for our country.  The U.S. Reciprocal Trade Act  will be an incredible tool to bring foreign countries to the negotiating table and to get them to lower their tariffs on our products and also to get rid of their trade barriers, making it really impossible for us to do business.'?
+Metaphor 2: Is there an explicit mapping in the metaphor 'A pillar of national security is economic security and trade .   National security is not where we lose hundreds of billions of dollars a year.'?
+Metaphor 3: Is there an explicit mapping in the metaphor 'The fact of the matter is that this is the way we should view it because this is the way the Communist Party of China views it. The truth is that they view  our trade tensions  as an inevitable blip in their long-term plan to supplant the United States of America as the world's dominant political, military, and economic power.'?
+etc.
+
+
