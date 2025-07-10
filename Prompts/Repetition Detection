@@ -1,0 +1,16 @@
+I am going to give you 50 metaphors, all of which have trade as their central theme. Your goal is to detect if there is a repetition in the metaphor or not.
+
+Repetition: Repetition of the same verb with the same source domain. In this example, the cue is repeating ’stole’ within the source domain of 
+CRIME: “...other countries stole our factories, stole our plants, stole our wealth, and stole our jobs.”
+
+Repetition is also counted if the lexeme of the verb is the same, but the form is different, for example, ´sing´ and ´sung´. Converting the verb into a noun 
+within the same sentence (e.g. ´sing´ and ´song´) is also allowed.
+
+Please keep in mind that everything is a metaphor. Despite what you might think, they are all figurative, not literal. So please don´t rule out verb 
+repetitions, even if you think they are not metaphorical.
+
+So, if there is repetition, I want you to classify the metaphor as such. If you cannot identify any repetition, then classify it as no repetition.
+
+Metaphor 1: Is there repetition in the metaphor 'On trade , I've kept my promise to the American people, and withdrawn from the Trans-Pacific Partnership disaster.'?
+Metaphor 2: Is there repetition in the metaphor 'This is the first time  Section 201 of the Trade Act  has been used to impose tariffs in 16 years.'?
+Metaphor 3: Is there repetition in the metaphor 'THE PRESIDENT: So, I can tell you this: China would much rather make  a trade deal  than I would.'?
