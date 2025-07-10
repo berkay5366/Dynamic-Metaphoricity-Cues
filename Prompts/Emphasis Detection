@@ -1,0 +1,26 @@
+I am going to give you 20 metaphors, all of which have trade as their central theme. Your goal is to detect if there is an emphasis in the metaphor or not.
+
+Emphasis: using punctuation (e.g., quotation marks), a font style (e.g., italics), or words (e.g., ‘only’, ‘emphasize’, ‘it is that’) to emphasize the
+Vehicle/Source. E.g., the following example uses quotation marks to emphasize engine/ENGINE : “International merchandise trade continues to act as
+‘engine’ of economic growth .” (Translated text from Xi corpus). 
+
+A metaphor has emphasis if it has one of the following: 
+1) There is Double quotation (Look specificaly if it emphasises the Vehicle/Source)
+2) There is Single quatation (Look specificaly if it emphasises the Vehicle/Source)
+3) ¨it is....¨ or something equivalent ¨like it is that¨
+4) ¨emphasize¨ or something equivalent
+5) ¨do¨ or ¨does¨ in it
+6) There is Capitalisation (Look specificaly if it emphasises the Vehicle/Source)
+7) ¨not...but...¨ or something equivalent
+8) ¨only¨
+9) There is a specific font style (e.g., italics)
+
+Please keep in mind that everything is a metaphor. Despite what you might think, they are all figurative, not literal. So please don´t rule out emphasis,
+even if you think they are not metaphorical.
+
+So, if there is emphasis, I want you to classify the metaphor as such. If you cannot identify any emphasis, then classify it as no emphasis.
+
+Metaphor 1: Is there emphasis in the metaphor '"We would fight China on trade .  Well, he didn't do it for – he's been there for like 45 years. And he didn't do it in eight years because they ate our lunch during the Obama administration.'?
+Metaphor 2: Is there emphasis in the metaphor 'And as a result ’ (applause) ’ we just achieved a breakthrough on  the trade deal  and we’ll be signing it very shortly.'?
+Metaphor 3: Is there emphasis in the metaphor 'What is outrageous is how much of these advances are built, not just on ingenuity and hard work but on the theft of intellectual property from American companies, oftentimes through research funded by American taxpayers. They do it through cyber espionage. They do it through the forced transfer of technology, where they tell companies who do business in China, not only do you have to partner with a Chinese company, you have to give them the secrets to  their trade .  See how they are now buying up companies, buying off researchers in American universities and their research.'?
+etc.
