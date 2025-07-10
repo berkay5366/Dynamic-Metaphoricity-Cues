@@ -1,0 +1,59 @@
+I am going to give you 45 metaphors, all of which have trade as their central theme. Your goal is to detect if there is 
+a marking device in the metaphor or not.
+
+Marking devices are used to mark the source domain. For instance, using  “as” to mark the source domain LEVERAGE: “...the
+previous administration was unwilling to use our huge trade deficit with China as leverage...”  or using ‘as’ to mark 
+imaginary enemies and IMAGINARY ENEMIES : “The U.S. regarded trade partners as imaginary enemies .”
+
+Here is a list of marking devices:
+modal verb+be (“might be,” “should be,” “could be,” “would be,” “can be,” etc.)
+If it contains a dash sign (—) (Look specificaly if it marks the source domain)
+¨including¨
+¨form¨
+¨just¨
+¨become¨
+¨remain¨
+¨define¨
+¨a little¨
+¨almost¨
+¨called¨
+¨has/have/had been¨
+¨something or other¨
+¨as¨
+¨literally¨
+¨to use an analogy¨
+¨like¨
+‘:’ (Look specificaly if it marks the source domain)
+¨mean¨
+¨feel like¨
+¨serve as¨
+¨represent¨
+¨sort of¨
+¨kind of¨
+¨really¨
+‘imagine´
+´so to speak’
+¨actually¨
+¨if you like¨
+ ‘in a way¨
+‘as it were¨
+
+Obviously, there are more marking devices than those provided in the list. If you see potential marking devices with the same 
+function as those on the list that are not included, you can treat them as marking devices as well. These types are:
+1) Function words that perform a grammatical role but don´t carry much meaning themselves (¨including¨, ¨as¨, ¨like¨).
+2) Hedges that make phrases less direct or certain (¨a little¨, ¨kind of¨, ¨almost¨).
+3) Metadiscourse reflecting on the language or structure of the text itself (¨to use an analogy¨, ¨imagine¨, ¨feel like¨).
+
+Be careful with colons and dashes as they don't always introduce source domains. In that case, check to see if a noun immediately 
+follows one of these two signs, as this could potentially be a source domain.
+
+Please keep in mind that everything is a metaphor. Despite what you might think, they are all figurative, not literal. So please don´t 
+rule out emphasis, even if you think they are not metaphorical.
+
+So, if there are marking devices, I want you to classify the metaphor as marking. If you cannot identify any marking devices, 
+then classify it as no marking.
+
+Metaphor 1: Is there a marking device in the metaphor 'Mississippi Commissioner of Agriculture and Commerce Andy Gipson: "The signing of the Phase One Trade Agreement with China is a welcomed beginning to resolve these trade disputes, and serves as a symbol of the patriotism of our farmers.  I'm grateful for the work President Trump is doing on behalf of agriculture and trade .'?
+Metaphor 2: Is there a marking device in the metaphor 'China is  part of the next generation of Asian trade for the United States.'?
+Metaphor 3: Is there a marking device in the metaphor 'As I see it, the first year of the Bush administration, we had about  a $3 million trade deficit   with China.'?
+etc.
